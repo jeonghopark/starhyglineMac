@@ -1,7 +1,3 @@
-.svn
-.hg
-.cvs
-
 # osx
 *.app
 *.mode1v3
@@ -12,11 +8,5 @@ xcuserdata/
 DerivedData/
 project.xcworkspace
 
-# vs2010
-ipch/
-obj/
-*.sdf
 
-
-### ignore Folder
-#¡¦/
+*.zip
